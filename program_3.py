@@ -1,3 +1,5 @@
+#Total Purchase
+#Samuel Renneke, 1/30/2026
 def calculate_total_purchase():
     #inputs
     item_1 = input("Enter price of item 1: ")
